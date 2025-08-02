@@ -65,7 +65,7 @@ Place the documents you want to process into the `data/` directory.
 Run the main script with the `--process` flag, specifying the filename from the `data` directory.
 
 ```bash
-python main.py --process "mistral.pdf"
+python main.py --process "<input_file.pdf>"
 ```
 This will:
 1. Parse the document, extracting text and tables.
@@ -78,4 +78,5 @@ Once the data is ingested, you can ask questions using the `--query` flag.
 ```bash
 python main.py --query "What are the two main components of the Pixtral architecture?"
 ```
+
 The script will retrieve relevant chunks from Milvus and generate an answer using Mistral AI.
