@@ -1,0 +1,1399 @@
+{
+  "tables": [
+    {
+      "type": "table",
+      "content": [
+        {
+          "238": "238",
+          "Consolidated Statement of Income": "Consolidated Statement of Comprehensive Income"
+        },
+        {
+          "238": "239",
+          "Consolidated Statement of Income": "Consolidated Balance Sheet"
+        },
+        {
+          "238": "240",
+          "Consolidated Statement of Income": "Consolidated Statement of Changes in Equity"
+        },
+        {
+          "238": "241",
+          "Consolidated Statement of Income": "Consolidated Statement of Cash Flows"
+        },
+        {
+          "238": "242",
+          "Consolidated Statement of Income": "Notes to the Consolidated Financial Statements"
+        },
+        {
+          "238": "242",
+          "Consolidated Statement of Income": "Note | Basis of preparation"
+        },
+        {
+          "238": "242",
+          "Consolidated Statement of Income": "Note 2 Significant accounting policies, judgements and estimates"
+        },
+        {
+          "238": "252",
+          "Consolidated Statement of Income": "Note 3 Changes to IFRS not yet adopted"
+        },
+        {
+          "238": "252",
+          "Consolidated Statement of Income": "Note 4 Climate change and energy transition"
+        },
+        {
+          "238": "261",
+          "Consolidated Statement of Income": "Note 5 Emission schemes and related environmental plans"
+        },
+        {
+          "238": "262",
+          "Consolidated Statement of Income": "Note 6 Withdrawal from Russian oil and gas activities"
+        },
+        {
+          "238": "264",
+          "Consolidated Statement of Income": "Note 7 Capital Management"
+        },
+        {
+          "238": "265",
+          "Consolidated Statement of Income": "Note 8 Segment information"
+        },
+        {
+          "238": "269",
+          "Consolidated Statement of Income": "Note 9 Interest and other income"
+        },
+        {
+          "238": "270",
+          "Consolidated Statement of Income": "Note 10 Interest expense"
+        },
+        {
+          "238": "270",
+          "Consolidated Statement of Income": "Note 11 Goodwill and other intangible assets"
+        },
+        {
+          "238": "271",
+          "Consolidated Statement of Income": "Note 12 Property, plant and equipment"
+        },
+        {
+          "238": "275",
+          "Consolidated Statement of Income": "Note 13 Joint ventures and associates"
+        },
+        {
+          "238": "276",
+          "Consolidated Statement of Income": "Note 14 Investments in securities"
+        },
+        {
+          "238": "277",
+          "Consolidated Statement of Income": "Note 15 Trade and other receivables"
+        },
+        {
+          "238": "277",
+          "Consolidated Statement of Income": "Note 16 Inventories"
+        },
+        {
+          "238": "278",
+          "Consolidated Statement of Income": "Note 17 Cash and cash equivalents"
+        },
+        {
+          "238": "278",
+          "Consolidated Statement of Income": "Note 18 Assets held for sale"
+        },
+        {
+          "238": "278",
+          "Consolidated Statement of Income": "Note 19 Trade and other payables"
+        },
+        {
+          "238": "279",
+          "Consolidated Statement of Income": "Note 20 Debt"
+        },
+        {
+          "238": "278",
+          "Consolidated Statement of Income": "Note 21 Leases"
+        },
+        {
+          "238": "283",
+          "Consolidated Statement of Income": "Note 22 Taxation"
+        },
+        {
+          "238": "285",
+          "Consolidated Statement of Income": "Note 23 Retirement benefits"
+        },
+        {
+          "238": "292",
+          "Consolidated Statement of Income": "Note 24 Decommissioning and other provisions"
+        },
+        {
+          "238": "293",
+          "Consolidated Statement of Income": "Note 25 Financial instruments"
+        },
+        {
+          "238": "299",
+          "Consolidated Statement of Income": "Note 26 Share capital"
+        },
+        {
+          "238": "300",
+          "Consolidated Statement of Income": "Note 27 Share-based compensation plans and shares held in trust"
+        },
+        {
+          "238": "301",
+          "Consolidated Statement of Income": "Note 28 Other reserves"
+        },
+        {
+          "238": "303",
+          "Consolidated Statement of Income": "Note 29 Dividends"
+        },
+        {
+          "238": "303",
+          "Consolidated Statement of Income": "Note 30 Earnings per share"
+        },
+        {
+          "238": "303",
+          "Consolidated Statement of Income": "Note 31 Legal proceedings and other contingencies"
+        },
+        {
+          "238": "306",
+          "Consolidated Statement of Income": "Note 32 Employees"
+        },
+        {
+          "238": "306",
+          "Consolidated Statement of Income": "Note 33 Directors and Senior Management"
+        },
+        {
+          "238": "307",
+          "Consolidated Statement of Income": "Note 34 Auditor's remuneration"
+        },
+        {
+          "238": "307",
+          "Consolidated Statement of Income": "Note 35 Post-balance sheet events"
+        }
+      ],
+      "metadata": {
+        "page_number": 1,
+        "columns": [
+          "238",
+          "Consolidated Statement of Income"
+        ],
+        "table_index_on_page": 1,
+        "position": 202.09542846679688,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 2
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "": "Revenue",
+          "Notes": "8",
+          "2022": "381,314",
+          "2021": "261,504",
+          "$ million \\n2020": "180,543"
+        },
+        {
+          "": "Share of profit of joint ventures and associates",
+          "Notes": "13",
+          "2022": "3,972",
+          "2021": "4,097",
+          "$ million \\n2020": "1,783"
+        },
+        {
+          "": "Interest and other income",
+          "Notes": "9",
+          "2022": "915",
+          "2021": "7,056",
+          "$ million \\n2020": "869"
+        },
+        {
+          "": "Total revenue and other income",
+          "Notes": null,
+          "2022": "386,201",
+          "2021": "272,657",
+          "$ million \\n2020": "183,195"
+        },
+        {
+          "": "Purchases",
+          "Notes": null,
+          "2022": "258,488",
+          "2021": "174,912",
+          "$ million \\n2020": "117,093"
+        },
+        {
+          "": "Production and manufacturing expenses",
+          "Notes": "8",
+          "2022": "25,518",
+          "2021": "23,822",
+          "$ million \\n2020": "24,001"
+        },
+        {
+          "": "Selling, distribution and administrative expenses",
+          "Notes": "8",
+          "2022": "12,883",
+          "2021": "11,328",
+          "$ million \\n2020": "9,881"
+        },
+        {
+          "": "Research and development",
+          "Notes": "8",
+          "2022": "1,075",
+          "2021": "815",
+          "$ million \\n2020": "907"
+        },
+        {
+          "": "Exploration",
+          "Notes": "8",
+          "2022": "1,712",
+          "2021": "1,423",
+          "$ million \\n2020": "1,747"
+        },
+        {
+          "": "Depreciation, depletion and amortisation",
+          "Notes": "8",
+          "2022": "18,529",
+          "2021": "26,921",
+          "$ million \\n2020": "52,444"
+        },
+        {
+          "": "Interest expense",
+          "Notes": "10",
+          "2022": "3,181",
+          "2021": "3,607",
+          "$ million \\n2020": "4,089"
+        },
+        {
+          "": "Total expenditure",
+          "Notes": null,
+          "2022": "321,386",
+          "2021": "242,828",
+          "$ million \\n2020": "210,162"
+        },
+        {
+          "": "Income/(loss) before taxation",
+          "Notes": null,
+          "2022": "64,815",
+          "2021": "29,829",
+          "$ million \\n2020": "(26,967)"
+        },
+        {
+          "": "Taxation charge/(credit)",
+          "Notes": "22",
+          "2022": "21,941",
+          "2021": "9,199",
+          "$ million \\n2020": "(5,433)"
+        },
+        {
+          "": "Income/(loss) for the period",
+          "Notes": "8",
+          "2022": "42,874",
+          "2021": "20,630",
+          "$ million \\n2020": "(21,534)"
+        },
+        {
+          "": "Income attributable to non-controlling interest",
+          "Notes": "8",
+          "2022": "565",
+          "2021": "529",
+          "$ million \\n2020": "146"
+        },
+        {
+          "": "Income/(loss) attributable to Shell plc shareholders",
+          "Notes": "8",
+          "2022": "42,309",
+          "2021": "20,101",
+          "$ million \\n2020": "(21,680)"
+        },
+        {
+          "": "Basic earnings per share ($)",
+          "Notes": "30",
+          "2022": "5.76",
+          "2021": "2.59",
+          "$ million \\n2020": "(2.78)"
+        },
+        {
+          "": "Diluted earnings per share ($)",
+          "Notes": "30",
+          "2022": "5.71",
+          "2021": "2.57",
+          "$ million \\n2020": "(2.78)"
+        }
+      ],
+      "metadata": {
+        "page_number": 2,
+        "columns": [
+          "",
+          "Notes",
+          "2022",
+          "2021",
+          "$ million \\n2020"
+        ],
+        "table_index_on_page": 1,
+        "position": 95.61075592041016,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 3
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "": "Income/(loss) for the period",
+          "Notes": "8",
+          "2022": "42,874",
+          "2021": "20,630",
+          "2020": "(21,534)"
+        },
+        {
+          "": "Other comprehensive income/(loss) net of tax",
+          "Notes": null,
+          "2022": null,
+          "2021": null,
+          "2020": null
+        },
+        {
+          "": "Items that may be reclassified to income in later periods:",
+          "Notes": null,
+          "2022": null,
+          "2021": null,
+          "2020": null
+        },
+        {
+          "": "Currency translation differences",
+          "Notes": "28",
+          "2022": "(2,986)",
+          "2021": "(1,413)",
+          "2020": "1,179"
+        },
+        {
+          "": "Debt instruments remeasurements",
+          "Notes": "28",
+          "2022": "(78)",
+          "2021": "(28)",
+          "2020": "23"
+        },
+        {
+          "": "Cash flow hedging (losses)/gains",
+          "Notes": "28",
+          "2022": "(232)",
+          "2021": "21",
+          "2020": "(160)"
+        },
+        {
+          "": "Net investment hedging gains/(losses)",
+          "Notes": "28",
+          "2022": "180",
+          "2021": "295",
+          "2020": "(423)"
+        },
+        {
+          "": "Deferred cost of hedging",
+          "Notes": "28",
+          "2022": "200",
+          "2021": "(39)",
+          "2020": "100"
+        },
+        {
+          "": "Share of other comprehensive income/(loss) of joint ventures and associates",
+          "Notes": "13",
+          "2022": "274",
+          "2021": "(109)",
+          "2020": "(42)"
+        },
+        {
+          "": "Total",
+          "Notes": null,
+          "2022": "(2,642)",
+          "2021": "(1,273)",
+          "2020": "677"
+        },
+        {
+          "": "Items that are not reclassified to income in later periods:",
+          "Notes": null,
+          "2022": null,
+          "2021": null,
+          "2020": null
+        },
+        {
+          "": "Retirement benefits remeasurements",
+          "Notes": null,
+          "2022": "5,466",
+          "2021": "7,198",
+          "2020": "(2,702)"
+        },
+        {
+          "": "Equity instruments remeasurements",
+          "Notes": null,
+          "2022": "(491)",
+          "2021": "145",
+          "2020": "64"
+        },
+        {
+          "": "Share of other comprehensive (loss)/incomeofjoint ventures and associates",
+          "Notes": "13",
+          "2022": "(253)",
+          "2021": "3",
+          "2020": "119"
+        },
+        {
+          "": "Total",
+          "Notes": null,
+          "2022": "4,722",
+          "2021": "7,346",
+          "2020": "(2,519)"
+        },
+        {
+          "": "Other comprehensive income/(loss) for the period",
+          "Notes": null,
+          "2022": "2,080",
+          "2021": "6,073",
+          "2020": "(1,842)"
+        },
+        {
+          "": "Comprehensive income/(loss) for the period",
+          "Notes": null,
+          "2022": "44,954",
+          "2021": "26,703",
+          "2020": "(23,376)"
+        },
+        {
+          "": "Comprehensive income attributable to non-controlling interest",
+          "Notes": null,
+          "2022": "621",
+          "2021": "468",
+          "2020": "136"
+        },
+        {
+          "": "Comprehensive income/(loss) attributable to Shell plc shareholders",
+          "Notes": null,
+          "2022": "44,333",
+          "2021": "26,235",
+          "2020": "(23,512)"
+        }
+      ],
+      "metadata": {
+        "page_number": 2,
+        "columns": [
+          "",
+          "Notes",
+          "2022",
+          "2021",
+          "2020"
+        ],
+        "table_index_on_page": 2,
+        "position": 394.687744140625,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 4
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "": "Assets",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Non-current assets",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Goodwill [A]",
+          "Notes": "ii",
+          "Dec 31,2022": "16,039",
+          "$ million Dec 31, 2021": "14,920"
+        },
+        {
+          "": "Other intangible assets [A]",
+          "Notes": "in",
+          "Dec 31,2022": "9,662",
+          "$ million Dec 31, 2021": "9,773"
+        },
+        {
+          "": "Property, plant and equipment",
+          "Notes": "12",
+          "Dec 31,2022": "198,642",
+          "$ million Dec 31, 2021": "194,932"
+        },
+        {
+          "": "Joint ventures and associates",
+          "Notes": "13",
+          "Dec 31,2022": "23,864",
+          "$ million Dec 31, 2021": "23,415"
+        },
+        {
+          "": "Investments in securities",
+          "Notes": "14",
+          "Dec 31,2022": "3,362",
+          "$ million Dec 31, 2021": "3,797"
+        },
+        {
+          "": "Deferred tax",
+          "Notes": "22",
+          "Dec 31,2022": "7,815",
+          "$ million Dec 31, 2021": "12,426"
+        },
+        {
+          "": "Retirement benefits",
+          "Notes": "23",
+          "Dec 31,2022": "10,200",
+          "$ million Dec 31, 2021": "8,471"
+        },
+        {
+          "": "Trade and other receivables",
+          "Notes": "15",
+          "Dec 31,2022": "6,920",
+          "$ million Dec 31, 2021": "7,065"
+        },
+        {
+          "": "Derivative financial instruments",
+          "Notes": "25",
+          "Dec 31,2022": "582",
+          "$ million Dec 31, 2021": "815"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "277,086",
+          "$ million Dec 31, 2021": "275,614"
+        },
+        {
+          "": "Current assets",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Inventories",
+          "Notes": "16",
+          "Dec 31,2022": "31,894",
+          "$ million Dec 31, 2021": "25,258"
+        },
+        {
+          "": "Trade and other receivables",
+          "Notes": "15",
+          "Dec 31,2022": "66,510",
+          "$ million Dec 31, 2021": "53,208"
+        },
+        {
+          "": "Derivative financial instruments",
+          "Notes": "25",
+          "Dec 31,2022": "24,437",
+          "$ million Dec 31, 2021": "11,369"
+        },
+        {
+          "": "Cash and cash equivalents",
+          "Notes": "17",
+          "Dec 31,2022": "40,246",
+          "$ million Dec 31, 2021": "36,970"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "163,087",
+          "$ million Dec 31, 2021": "126,805"
+        },
+        {
+          "": "Assets classified as held for sale",
+          "Notes": "18",
+          "Dec 31,2022": "2,851",
+          "$ million Dec 31, 2021": "1,960"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "165,938",
+          "$ million Dec 31, 2021": "128,765"
+        },
+        {
+          "": "Total assets",
+          "Notes": null,
+          "Dec 31,2022": "443,024",
+          "$ million Dec 31, 2021": "404,379"
+        },
+        {
+          "": "Liabilities",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Non-current liabilities",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Debt",
+          "Notes": "20",
+          "Dec 31,2022": "74,794",
+          "$ million Dec 31, 2021": "80,868"
+        },
+        {
+          "": "Trade and other payables",
+          "Notes": "19",
+          "Dec 31,2022": "3,432",
+          "$ million Dec 31, 2021": "2,075"
+        },
+        {
+          "": "Derivative financial instruments",
+          "Notes": "25",
+          "Dec 31,2022": "3,563",
+          "$ million Dec 31, 2021": "887"
+        },
+        {
+          "": "Deferred tax",
+          "Notes": "22",
+          "Dec 31,2022": "16,186",
+          "$ million Dec 31, 2021": "12,547"
+        },
+        {
+          "": "Retirement benefits",
+          "Notes": "23",
+          "Dec 31,2022": "7,296",
+          "$ million Dec 31, 2021": "11,325"
+        },
+        {
+          "": "Decommissioning and other provisions",
+          "Notes": "24",
+          "Dec 31,2022": "23,845",
+          "$ million Dec 31, 2021": "25,804"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "129,116",
+          "$ million Dec 31, 2021": "133,506"
+        },
+        {
+          "": "Current liabilities",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Debt",
+          "Notes": "20",
+          "Dec 31,2022": "9,001",
+          "$ million Dec 31, 2021": "8,218"
+        },
+        {
+          "": "Trade and other payables",
+          "Notes": "19",
+          "Dec 31,2022": "79,357",
+          "$ million Dec 31, 2021": "63,173"
+        },
+        {
+          "": "Derivative financial instruments",
+          "Notes": "25",
+          "Dec 31,2022": "23,779",
+          "$ million Dec 31, 2021": "16,311"
+        },
+        {
+          "": "Income taxes payable",
+          "Notes": null,
+          "Dec 31,2022": "4,869",
+          "$ million Dec 31, 2021": "3,254"
+        },
+        {
+          "": "Decommissioning and other provisions",
+          "Notes": "24",
+          "Dec 31,2022": "2,910",
+          "$ million Dec 31, 2021": "3,338"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "119,916",
+          "$ million Dec 31, 2021": "94,294"
+        },
+        {
+          "": "Liabilities directly associated with assets classified as held for sale",
+          "Notes": "18",
+          "Dec 31,2022": "1,395",
+          "$ million Dec 31, 2021": "1,253"
+        },
+        {
+          "": null,
+          "Notes": null,
+          "Dec 31,2022": "121,311",
+          "$ million Dec 31, 2021": "95,547"
+        },
+        {
+          "": "Total liabilities",
+          "Notes": null,
+          "Dec 31,2022": "250,427",
+          "$ million Dec 31, 2021": "229,053"
+        },
+        {
+          "": "Equity",
+          "Notes": null,
+          "Dec 31,2022": null,
+          "$ million Dec 31, 2021": null
+        },
+        {
+          "": "Share capital",
+          "Notes": "26",
+          "Dec 31,2022": "584",
+          "$ million Dec 31, 2021": "641"
+        },
+        {
+          "": "Shares held in trust",
+          "Notes": null,
+          "Dec 31,2022": "(726)",
+          "$ million Dec 31, 2021": "(610)"
+        },
+        {
+          "": "Other reserves",
+          "Notes": "28",
+          "Dec 31,2022": "21,132",
+          "$ million Dec 31, 2021": "18,909"
+        },
+        {
+          "": "Retained earnings",
+          "Notes": null,
+          "Dec 31,2022": "169,482",
+          "$ million Dec 31, 2021": "153,026"
+        },
+        {
+          "": "Equity attributable to Shell ple shareholders",
+          "Notes": null,
+          "Dec 31,2022": "190,472",
+          "$ million Dec 31, 2021": "171,966"
+        },
+        {
+          "": "Non-controlling interest",
+          "Notes": null,
+          "Dec 31,2022": "2125",
+          "$ million Dec 31, 2021": "3,360"
+        },
+        {
+          "": "Total equity",
+          "Notes": null,
+          "Dec 31,2022": "192,597",
+          "$ million Dec 31, 2021": "175,326"
+        },
+        {
+          "": "Total liabilities and equity",
+          "Notes": null,
+          "Dec 31,2022": "443,024",
+          "$ million Dec 31, 2021": "404,379"
+        }
+      ],
+      "metadata": {
+        "page_number": 3,
+        "columns": [
+          "",
+          "Notes",
+          "Dec 31,2022",
+          "$ million Dec 31, 2021"
+        ],
+        "table_index_on_page": 1,
+        "position": 84.78034210205078,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 5
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "": "At January 1, 2022",
+          "capital (see Note 26)": "641",
+          "Shares —heldintrust": "(610)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "18,909",
+          "to Shell ple \\nRetained earnings": "153,026",
+          "shareholders \\nTotal": "171,966",
+          "controlling interest": "3,360",
+          "Total equity": "175,326"
+        },
+        {
+          "": "Comprehensive income for the period",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "2,024",
+          "to Shell ple \\nRetained earnings": "42,309",
+          "shareholders \\nTotal": "44,333",
+          "controlling interest": "621",
+          "Total equity": "44,954"
+        },
+        {
+          "": "Transfer from other comprehensive income",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "(34)",
+          "to Shell ple \\nRetained earnings": "34",
+          "shareholders \\nTotal": "-",
+          "controlling interest": "-",
+          "Total equity": "-"
+        },
+        {
+          "": "Dividends (see Note 29) [A]",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "(7,283)",
+          "shareholders \\nTotal": "(7,283)",
+          "controlling interest": "(206)",
+          "Total equity": "(7,489)"
+        },
+        {
+          "": "Repurchases of shares [B]",
+          "capital (see Note 26)": "(57)",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "57",
+          "to Shell ple \\nRetained earnings": "(18,547)",
+          "shareholders \\nTotal": "(18,547)",
+          "controlling interest": "-",
+          "Total equity": "(18,547)"
+        },
+        {
+          "": "Share-based compensation",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "(116)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "176",
+          "to Shell ple \\nRetained earnings": "131",
+          "shareholders \\nTotal": "191",
+          "controlling interest": "-",
+          "Total equity": "191"
+        },
+        {
+          "": "Other changes",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "(188)",
+          "shareholders \\nTotal": "(188)",
+          "controlling interest": "(1,650) [C]",
+          "Total equity": "(1,838)"
+        },
+        {
+          "": "At December 31, 2022",
+          "capital (see Note 26)": "584",
+          "Shares —heldintrust": "(726)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "21,132",
+          "to Shell ple \\nRetained earnings": "169,482",
+          "shareholders \\nTotal": "190,472",
+          "controlling interest": "2,125",
+          "Total equity": "192,597"
+        },
+        {
+          "": "At January 1, 2021",
+          "capital (see Note 26)": "651",
+          "Shares —heldintrust": "(709)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "12,752",
+          "to Shell ple \\nRetained earnings": "142,616",
+          "shareholders \\nTotal": "155,310",
+          "controlling interest": "3,227",
+          "Total equity": "158,537"
+        },
+        {
+          "": "Comprehensive income for the period",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "6,134",
+          "to Shell ple \\nRetained earnings": "20,101",
+          "shareholders \\nTotal": "26,235",
+          "controlling interest": "468",
+          "Total equity": "26,703"
+        },
+        {
+          "": "Transfer from other comprehensive income",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "(45)",
+          "to Shell ple \\nRetained earnings": "45",
+          "shareholders \\nTotal": "-",
+          "controlling interest": "-",
+          "Total equity": "-"
+        },
+        {
+          "": "Dividends (see Note 29) [A]",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "(6,321)",
+          "shareholders \\nTotal": "(6,321)",
+          "controlling interest": "(348)",
+          "Total equity": "(6,669)"
+        },
+        {
+          "": "Repurchases of shares",
+          "capital (see Note 26)": "(10)",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "10",
+          "to Shell ple \\nRetained earnings": "(3,513)",
+          "shareholders \\nTotal": "(3,513)",
+          "controlling interest": "-",
+          "Total equity": "(3,513)"
+        },
+        {
+          "": "Share-based compensation",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "99",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "58",
+          "to Shell ple \\nRetained earnings": "93",
+          "shareholders \\nTotal": "250",
+          "controlling interest": "-",
+          "Total equity": "250"
+        },
+        {
+          "": "Other changes",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "5",
+          "shareholders \\nTotal": "5",
+          "controlling interest": "13",
+          "Total equity": "18"
+        },
+        {
+          "": "December 31, 2021",
+          "capital (see Note 26)": "641",
+          "Shares —heldintrust": "(610)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "18,909",
+          "to Shell ple \\nRetained earnings": "153,026",
+          "shareholders \\nTotal": "171,966",
+          "controlling interest": "3,360",
+          "Total equity": "175,326"
+        },
+        {
+          "": "At January 1, 2020",
+          "capital (see Note 26)": "657",
+          "Shares —heldintrust": "(1,063)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "14,451",
+          "to Shell ple \\nRetained earnings": "172,431",
+          "shareholders \\nTotal": "186,476",
+          "controlling interest": "3,987",
+          "Total equity": "190,463"
+        },
+        {
+          "": "Comprehensive (loss)/income for the period",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "(1,832)",
+          "to Shell ple \\nRetained earnings": "(21,397)",
+          "shareholders \\nTotal": "(23,229)",
+          "controlling interest": "136",
+          "Total equity": "(23,093)"
+        },
+        {
+          "": "Transfer from other comprehensive income",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "270",
+          "to Shell ple \\nRetained earnings": "(270)",
+          "shareholders \\nTotal": "-",
+          "controlling interest": "-",
+          "Total equity": "-"
+        },
+        {
+          "": "Dividends (see Note 29) [A]",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "(7,270)",
+          "shareholders \\nTotal": "(7,270)",
+          "controlling interest": "(311)",
+          "Total equity": "(7,581)"
+        },
+        {
+          "": "Repurchases of shares",
+          "capital (see Note 26)": "(6)",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "6",
+          "to Shell ple \\nRetained earnings": "(1,214)",
+          "shareholders \\nTotal": "(1,214)",
+          "controlling interest": "-",
+          "Total equity": "(1,214)"
+        },
+        {
+          "": "Share-based compensation",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "354",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "(143)",
+          "to Shell ple \\nRetained earnings": "(230)",
+          "shareholders \\nTotal": "(19)",
+          "controlling interest": "-",
+          "Total equity": "(19)"
+        },
+        {
+          "": "Other changes",
+          "capital (see Note 26)": "-",
+          "Shares —heldintrust": "-",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "-",
+          "to Shell ple \\nRetained earnings": "566",
+          "shareholders \\nTotal": "566",
+          "controlling interest": "(585)",
+          "Total equity": "(19)"
+        },
+        {
+          "": "At December 31, 2020",
+          "capital (see Note 26)": "651",
+          "Shares —heldintrust": "(709)",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)": "12,752",
+          "to Shell ple \\nRetained earnings": "142,616",
+          "shareholders \\nTotal": "155,310",
+          "controlling interest": "3,227",
+          "Total equity": "158,537"
+        }
+      ],
+      "metadata": {
+        "page_number": 4,
+        "columns": [
+          "",
+          "capital (see Note 26)",
+          "Shares —heldintrust",
+          "Equity attributable \\nOther Non￾Share reserves (see Note 28)",
+          "to Shell ple \\nRetained earnings",
+          "shareholders \\nTotal",
+          "controlling interest",
+          "Total equity"
+        ],
+        "table_index_on_page": 1,
+        "position": 97.77650451660156,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 6
+      }
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "": null,
+          "_1": "Notes",
+          "_2": "2022",
+          "_3": "2021",
+          "$ million": "2020"
+        },
+        {
+          "": "Income/(loss) before taxation for the period",
+          "_1": null,
+          "_2": "64,815",
+          "_3": "29,829",
+          "$ million": "(26,967)"
+        },
+        {
+          "": "Adjustment for:",
+          "_1": null,
+          "_2": null,
+          "_3": null,
+          "$ million": null
+        },
+        {
+          "": "Interest expense (net)",
+          "_1": null,
+          "_2": "2,135",
+          "_3": "3,096",
+          "$ million": "3,316"
+        },
+        {
+          "": "Depreciation, depletion and amortisation",
+          "_1": null,
+          "_2": "18,529",
+          "_3": "26,921",
+          "$ million": "52,444"
+        },
+        {
+          "": "Exploration well write-offs",
+          "_1": "12",
+          "_2": "881",
+          "_3": "639",
+          "$ million": "815"
+        },
+        {
+          "": "Net gains on sale and revaluation of non-current assets and businesses",
+          "_1": null,
+          "_2": "(642)",
+          "_3": "(5,995)",
+          "$ million": "(286)"
+        },
+        {
+          "": "Share of profit of joint ventures and associates",
+          "_1": null,
+          "_2": "(3,972)",
+          "_3": "(4,097)",
+          "$ million": "(1,783)"
+        },
+        {
+          "": "Dividends received from joint ventures and associates",
+          "_1": null,
+          "_2": "4,398",
+          "_3": "3,929",
+          "$ million": "2,591"
+        },
+        {
+          "": "(Increase)/decrease in inventories",
+          "_1": null,
+          "_2": "(8,360)",
+          "_3": "(7,319)",
+          "$ million": "4,477"
+        },
+        {
+          "": "(Increase)/decrease in current receivables",
+          "_1": null,
+          "_2": "(8,989)",
+          "_3": "(20,567)",
+          "$ million": "9,625"
+        },
+        {
+          "": "Increase/(decrease) in current payables",
+          "_1": null,
+          "_2": "11,915",
+          "_3": "17,519",
+          "$ million": "(9,494)"
+        },
+        {
+          "": "Derivative financial instruments",
+          "_1": null,
+          "_2": "(2,619)",
+          "_3": "5,882",
+          "$ million": "977"
+        },
+        {
+          "": "Retirement benefits",
+          "_1": null,
+          "_2": "417",
+          "_3": "16",
+          "$ million": "568"
+        },
+        {
+          "": "Decommissioning and other provisions",
+          "_1": null,
+          "_2": "35",
+          "_3": "(76)",
+          "$ million": "1,104"
+        },
+        {
+          "": "Other",
+          "_1": null,
+          "_2": "2,991",
+          "_3": "803",
+          "$ million": "8"
+        },
+        {
+          "": "Tax paid",
+          "_1": null,
+          "_2": "(13,120)",
+          "_3": "(5,476)",
+          "$ million": "(3,290)"
+        },
+        {
+          "": "Cash flow from operating activities",
+          "_1": null,
+          "_2": "68,414",
+          "_3": "45,104",
+          "$ million": "34,105"
+        },
+        {
+          "": "Capital expenditure",
+          "_1": null,
+          "_2": "(22,600)",
+          "_3": "(19,000)",
+          "$ million": "(16,585)"
+        },
+        {
+          "": "Investments in joint ventures and associates",
+          "_1": null,
+          "_2": "(1,973)",
+          "_3": "(479)",
+          "$ million": "(1,024)"
+        },
+        {
+          "": "Investment in equity securities",
+          "_1": null,
+          "_2": "(260)",
+          "_3": "(218)",
+          "$ million": "(218)"
+        },
+        {
+          "": "Proceeds from sale of property, plant and equipment and businesses",
+          "_1": null,
+          "_2": "1,431",
+          "_3": "14,233",
+          "$ million": "2,489"
+        },
+        {
+          "": "Proceeds from joint ventures and associates from sale, capital reduction and repayment of long￾term",
+          "_1": null,
+          "_2": null,
+          "_3": null,
+          "$ million": null
+        },
+        {
+          "": "loans",
+          "_1": null,
+          "_2": "511",
+          "_3": "584",
+          "$ million": "1,240"
+        },
+        {
+          "": "Proceeds from sale of equity securities",
+          "_1": null,
+          "_2": "117",
+          "_3": "296",
+          "$ million": "281"
+        },
+        {
+          "": "Interest received",
+          "_1": null,
+          "_2": "906",
+          "_3": "423",
+          "$ million": "532"
+        },
+        {
+          "": "Other investing cash inflows",
+          "_1": null,
+          "_2": "2,060",
+          "_3": "2,928",
+          "$ million": "3,239"
+        },
+        {
+          "": "Other investing cash outflows",
+          "_1": null,
+          "_2": "(2,640)",
+          "_3": "(3,528)",
+          "$ million": "(3,232)"
+        },
+        {
+          "": "Cash flow from investing activities",
+          "_1": null,
+          "_2": "(22,448)",
+          "_3": "(4,761)",
+          "$ million": "(13,278)"
+        },
+        {
+          "": "Net increase/(decrease) in debt with maturity period within three months",
+          "_1": null,
+          "_2": "318",
+          "_3": "14",
+          "$ million": "(63)"
+        },
+        {
+          "": "Other debt:",
+          "_1": null,
+          "_2": null,
+          "_3": null,
+          "$ million": null
+        },
+        {
+          "": "New borrowings",
+          "_1": null,
+          "_2": "269",
+          "_3": "1,791",
+          "$ million": "23,033"
+        },
+        {
+          "": "Repayments",
+          "_1": null,
+          "_2": "(8,459)",
+          "_3": "(21,534)",
+          "$ million": "(17,385)"
+        },
+        {
+          "": "Interest paid",
+          "_1": null,
+          "_2": "(3,677)",
+          "_3": "(4,014)",
+          "$ million": "(4,105)"
+        },
+        {
+          "": "Derivative financial instruments",
+          "_1": null,
+          "_2": "(1,799)",
+          "_3": "(1,165)",
+          "$ million": "1,157"
+        },
+        {
+          "": "Change in non-controlling interest",
+          "_1": null,
+          "_2": "(1,965)",
+          "_3": "19",
+          "$ million": "(42)"
+        },
+        {
+          "": "Cash dividends paid to:",
+          "_1": null,
+          "_2": null,
+          "_3": null,
+          "$ million": null
+        },
+        {
+          "": "Shell plc shareholders [A]",
+          "_1": null,
+          "_2": "(7,405)",
+          "_3": "(6,253)",
+          "$ million": "(7,424)"
+        },
+        {
+          "": "Non-controlling interest",
+          "_1": null,
+          "_2": "(206)",
+          "_3": "(348)",
+          "$ million": "(311)"
+        },
+        {
+          "": "Repurchases of shares",
+          "_1": null,
+          "_2": "(18,437)",
+          "_3": "(2,889)",
+          "$ million": "(1,702)"
+        },
+        {
+          "": "Shares held in trust: net purchases and dividends received",
+          "_1": null,
+          "_2": "(593)",
+          "_3": "(285)",
+          "$ million": "(382)"
+        },
+        {
+          "": "Cash flow from financing activities",
+          "_1": null,
+          "_2": "(41,954)",
+          "_3": "(34,664)",
+          "$ million": "(7,224)"
+        },
+        {
+          "": "Effects of exchange rate changes on cash and cash equivalents",
+          "_1": null,
+          "_2": "(736)",
+          "_3": "(539)",
+          "$ million": "172"
+        },
+        {
+          "": "Increase in cash and cash equivalents",
+          "_1": null,
+          "_2": "3,276",
+          "_3": "5,140",
+          "$ million": "13,775"
+        },
+        {
+          "": "Cash and cash equivalents at beginning of year",
+          "_1": null,
+          "_2": "36,970",
+          "_3": "31,830",
+          "$ million": "18,055"
+        },
+        {
+          "": "Cash and cash equivalents at end of year",
+          "_1": "17",
+          "_2": "40,246",
+          "_3": "36,970",
+          "$ million": "31,830"
+        }
+      ],
+      "metadata": {
+        "page_number": 5,
+        "columns": [
+          "",
+          "_1",
+          "_2",
+          "_3",
+          "$ million"
+        ],
+        "table_index_on_page": 1,
+        "position": 97.16317749023438,
+        "source_document": "Shell - Financial Statement-Page1-5 1.pdf",
+        "chunk_id": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# File: .gitignore
+
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+# Output files
+output/
+*.json
+*.pdf
+
+# Environment variables
+.env
+
+# IDE specific
+.idea/
+.vscode/
